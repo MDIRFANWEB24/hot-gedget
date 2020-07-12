@@ -1,0 +1,35 @@
+@media(max-width: 1199px){
+
+	.phone a h1 {margin: 20px 0;}
+	.phone .btn{margin-top: 15px;}
+}
+
+
+@media(max-width: 991px){
+
+	.navbar img{width:150px;}
+	.navbar{padding-top: 0;}
+	.phone .btn {
+    margin-top: 15px;
+    font-size: 30px;
+    padding: 15px;
+}
+
+@media(max-width: 767px){
+.carousel-item h1 {
+    font-size: 30px;
+    font-weight: 500;}
+.navbar{padding-bottom: 50px;}
+
+}
+
+
+@media(max-width: 575px){
+	.phone a h1 {
+    margin: 20px 0;
+    font-size: 30px;
+    font-weight: 600;}
+
+
+	
+}
